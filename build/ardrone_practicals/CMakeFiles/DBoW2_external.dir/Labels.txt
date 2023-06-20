@@ -1,0 +1,13 @@
+# Target labels
+ DBoW2_external
+# Source files and their labels
+/home/chennx/ardrone_ws/build/ardrone_practicals/CMakeFiles/DBoW2_external
+/home/chennx/ardrone_ws/build/ardrone_practicals/CMakeFiles/DBoW2_external.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/CMakeFiles/DBoW2_external-complete.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-install.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-mkdir.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-download.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-update.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-patch.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-configure.rule
+/home/chennx/ardrone_ws/build/ardrone_practicals/DBoW2/src/DBoW2_external-stamp/DBoW2_external-build.rule

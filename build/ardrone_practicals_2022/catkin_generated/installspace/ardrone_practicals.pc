@@ -1,0 +1,8 @@
+prefix=/home/chennx/ardrone_ws/install
+
+Name: ardrone_practicals
+Description: Description of ardrone_practicals
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lardrone_practicals
+Requires: image_transport opencv2 roscpp sensor_msgs std_msgs

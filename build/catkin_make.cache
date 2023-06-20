@@ -1,0 +1,2 @@
+ardrone_autonomy:ardrone_practicals:parrot_ardrone/ardrone_as:parrot_ardrone/custom_teleop:parrot_ardrone/drone_construct:parrot_ardrone/drone_demo:parrot_ardrone/sjtu_drone
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/chennx/ardrone_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chennx/ardrone_ws/install -G Unix Makefiles

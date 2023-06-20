@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O3 -DNDEBUG  -shared -Wl,-soname,libardrone_practicals.so -o /home/chennx/ardrone_ws/devel/lib/libardrone_practicals.so CMakeFiles/ardrone_practicals.dir/src/Autopilot.cpp.o 

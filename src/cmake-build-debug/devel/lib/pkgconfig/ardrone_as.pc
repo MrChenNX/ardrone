@@ -1,0 +1,8 @@
+prefix=/home/chennx/ardrone_ws/src/cmake-build-debug/devel
+
+Name: ardrone_as
+Description: Description of ardrone_as
+Version: 0.0.0
+Cflags: -I/home/chennx/ardrone_ws/src/cmake-build-debug/devel/include
+Libs: -L${prefix}/lib 
+Requires: rospy actionlib_msgs

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites tests="8" failures="0" disabled="0" errors="0" time="0" timestamp="2022-12-19T16:28:04" name="AllTests">
+  <testsuite name="PinholeCamera" tests="5" failures="0" disabled="0" errors="0" time="0" timestamp="2022-12-19T16:28:04">
+    <testcase name="projectBackProject" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="PinholeCamera" />
+    <testcase name="projectBackProject2" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="PinholeCamera" />
+    <testcase name="projectBackProject3" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="PinholeCamera" />
+    <testcase name="projectBackProject4" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="PinholeCamera" />
+    <testcase name="projectBackProjectJacobian" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="PinholeCamera" />
+  </testsuite>
+  <testsuite name="ImuKinematics" tests="1" failures="0" disabled="0" errors="0" time="0" timestamp="2022-12-19T16:28:04">
+    <testcase name="numericDifferencesDiscreteTime" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="ImuKinematics" />
+  </testsuite>
+  <testsuite name="ViEkfTest" tests="2" failures="0" disabled="0" errors="0" time="0" timestamp="2022-12-19T16:28:04">
+    <testcase name="predictState" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="ViEkfTest" />
+    <testcase name="updateState" status="run" result="completed" time="0" timestamp="2022-12-19T16:28:04" classname="ViEkfTest" />
+  </testsuite>
+</testsuites>

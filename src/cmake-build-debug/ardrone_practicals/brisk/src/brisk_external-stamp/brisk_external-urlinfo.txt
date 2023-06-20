@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/home/chennx/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake;-P;/home/chennx/ardrone_ws/src/cmake-build-debug/ardrone_practicals/brisk/src/brisk_external-stamp/download-brisk_external.cmake;COMMAND;/home/chennx/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake;-P;/home/chennx/ardrone_ws/src/cmake-build-debug/ardrone_practicals/brisk/src/brisk_external-stamp/verify-brisk_external.cmake;COMMAND;/home/chennx/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake;-P;/home/chennx/ardrone_ws/src/cmake-build-debug/ardrone_practicals/brisk/src/brisk_external-stamp/extract-brisk_external.cmake
+source_dir=/home/chennx/ardrone_ws/src/cmake-build-debug/ardrone_practicals/brisk/src/brisk_external
+work_dir=/home/chennx/ardrone_ws/src/cmake-build-debug/ardrone_practicals/brisk/src
+url(s)=https://www.doc.ic.ac.uk/~sleutene/software/brisk-cameraaware.zip
+hash=
+no_extract=
+
